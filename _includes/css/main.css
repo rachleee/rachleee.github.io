@@ -80,11 +80,6 @@ hr.star-primary:after {
     margin: 0 auto;
 }
 
-.img-responsive {
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-}
 
 header {
     text-align: center;
@@ -100,6 +95,9 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
 }
 
 header .intro-text .name {
