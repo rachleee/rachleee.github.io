@@ -95,8 +95,12 @@ header .container {
 header img {
     display: block;
     margin: 0 auto 20px;
-    width: 100px;
-    height: 100px;
+
+}
+
+header .img-responsive {
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
 }
 
